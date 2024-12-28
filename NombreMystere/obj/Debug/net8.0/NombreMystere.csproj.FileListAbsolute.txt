@@ -1,0 +1,14 @@
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\bin\Debug\net8.0\NombreMystere.exe
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\bin\Debug\net8.0\NombreMystere.deps.json
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\bin\Debug\net8.0\NombreMystere.runtimeconfig.json
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\bin\Debug\net8.0\NombreMystere.dll
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\bin\Debug\net8.0\NombreMystere.pdb
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\obj\Debug\net8.0\NombreMystere.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\obj\Debug\net8.0\NombreMystere.AssemblyInfoInputs.cache
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\obj\Debug\net8.0\NombreMystere.AssemblyInfo.cs
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\obj\Debug\net8.0\NombreMystere.csproj.CoreCompileInputs.cache
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\obj\Debug\net8.0\NombreMystere.dll
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\obj\Debug\net8.0\refint\NombreMystere.dll
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\obj\Debug\net8.0\NombreMystere.pdb
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\obj\Debug\net8.0\NombreMystere.genruntimeconfig.cache
+c:\Users\kchri\OneDrive\Dokumente\MonProjetC#\NombreMystere\obj\Debug\net8.0\ref\NombreMystere.dll
